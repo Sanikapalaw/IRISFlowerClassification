@@ -39,4 +39,4 @@ The following Python libraries were used:
 ## Results & Findings
 - Data visualization helps understand feature distributions among species.
 - KNN provides effective classification for the iris dataset.
-- The trained model a
+Data set taken from Kaggle
